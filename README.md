@@ -1,4 +1,4 @@
-# E-commerce Analytics with SQL + Excel
+E-commerce Analytics with SQL + Excel
 
 This project analyzes e-commerce sales data using SQL and Excel.
 
